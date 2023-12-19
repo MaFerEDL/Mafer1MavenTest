@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-12T15:07:50 CST" name="MaferIntegrationSuiteNew" finished-at="2023-12-12T15:07:50 CST" duration-ms="6">
+    <groups>
+    </groups>
+    <test started-at="2023-12-12T15:07:50 CST" name="MaferIntegrationNameNew" finished-at="2023-12-12T15:07:50 CST" duration-ms="6">
+      <class name="com.mafercompany.example.MyCasesNew">
+        <test-method signature="testEight()[pri:0, instance:com.mafercompany.example.MyCasesNew@70be0a2b]" started-at="2023-12-12T15:07:50 CST" name="testEight" finished-at="2023-12-12T15:07:50 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEight -->
+        <test-method signature="testNine()[pri:0, instance:com.mafercompany.example.MyCasesNew@70be0a2b]" started-at="2023-12-12T15:07:50 CST" name="testNine" finished-at="2023-12-12T15:07:50 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNine -->
+        <test-method signature="testSeven()[pri:0, instance:com.mafercompany.example.MyCasesNew@70be0a2b]" started-at="2023-12-12T15:07:50 CST" name="testSeven" finished-at="2023-12-12T15:07:50 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeven -->
+        <test-method signature="testSix()[pri:0, instance:com.mafercompany.example.MyCasesNew@70be0a2b]" started-at="2023-12-12T15:07:50 CST" name="testSix" finished-at="2023-12-12T15:07:50 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSix -->
+        <test-method signature="testTen()[pri:0, instance:com.mafercompany.example.MyCasesNew@70be0a2b]" started-at="2023-12-12T15:07:50 CST" name="testTen" finished-at="2023-12-12T15:07:50 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTen -->
+      </class> <!-- com.mafercompany.example.MyCasesNew -->
+    </test> <!-- MaferIntegrationNameNew -->
+  </suite> <!-- MaferIntegrationSuiteNew -->
+  <suite started-at="2023-12-12T15:07:50 CST" name="MaferIntegrationSuite" finished-at="2023-12-12T15:07:50 CST" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2023-12-12T15:07:50 CST" name="MaferIntegrationName" finished-at="2023-12-12T15:07:50 CST" duration-ms="51">
+      <class name="com.mafercompany.example.MyCases">
+        <test-method signature="testFive()[pri:0, instance:com.mafercompany.example.MyCases@50a7bc6e]" started-at="2023-12-12T15:07:50 CST" name="testFive" finished-at="2023-12-12T15:07:50 CST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFive -->
+        <test-method signature="testFour()[pri:0, instance:com.mafercompany.example.MyCases@50a7bc6e]" started-at="2023-12-12T15:07:50 CST" name="testFour" finished-at="2023-12-12T15:07:50 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method signature="testOne()[pri:0, instance:com.mafercompany.example.MyCases@50a7bc6e]" started-at="2023-12-12T15:07:50 CST" name="testOne" finished-at="2023-12-12T15:07:50 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method signature="testThree()[pri:0, instance:com.mafercompany.example.MyCases@50a7bc6e]" started-at="2023-12-12T15:07:50 CST" name="testThree" finished-at="2023-12-12T15:07:50 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method signature="testTwo()[pri:0, instance:com.mafercompany.example.MyCases@50a7bc6e]" started-at="2023-12-12T15:07:50 CST" name="testTwo" finished-at="2023-12-12T15:07:50 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- com.mafercompany.example.MyCases -->
+    </test> <!-- MaferIntegrationName -->
+  </suite> <!-- MaferIntegrationSuite -->
+</testng-results>
