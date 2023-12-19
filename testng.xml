@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MaferIntegrationSuite">
+    <test verbose="2" preserve-order="true"
+          name="MaferIntegrationName">
+        <classes>
+            <class name="com.mafercompany.example.MyCases">
+<!--                <methods>-->
+<!--                    <include name="testOne"/>-->
+<!--                    <include name="testTwo"/>-->
+<!--                    <include name="testThree"/>-->
+<!--                    <include name="testFour"/>-->
+<!--                    <include name="testFive"/>-->
+<!--                </methods>-->
+            </class>
+        </classes>
+    </test>
+</suite>
